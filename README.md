@@ -1,13 +1,13 @@
-### Hi there 👋, I'm dlmyL.
-
-I am an IT developer focusing on back-end technology, and a strong advocate and believer of Free Software.
-
-In spare time, I like reading book, surfing internet and watching movie.
+### Hi there 👋
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java.
 - 📫 How to reach me: lscbqr@gmail.com
+
+I am an IT developer focusing on back-end technology, and a strong advocate and believer of Free Software.
+
+In spare time, I like reading book, surfing internet and watching movie.
 
 <!--
 ![dlmyL's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlmyL&show_icons=true&theme=tokyonight)
